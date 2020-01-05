@@ -1,6 +1,6 @@
 # argon2wasm
 
-argon2 in wasm and javascript for veloren authentication services
+argon2 in wasm for veloren authentication services
 
 ## Tools needed
 
