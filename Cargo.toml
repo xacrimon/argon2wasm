@@ -12,6 +12,7 @@ wasm-bindgen = "0.2.56"
 rust-argon2 = { path = "./argon2" }
 hex = "0.4.0"
 wee_alloc = "0.4.5"
+fxhash = "0.2.1"
 
 [profile.release]
 opt-level = 3
